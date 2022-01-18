@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://my-proxy-tool-123.herokuapp.com/source.yaml
+  - https://raw.githubusercontent.com/SakuraVincent/proxypool/master/config/source.yaml
